@@ -82,14 +82,6 @@ We welcome contributions from the community. If you would like to contribute, pl
 
 [![Contributors](https://img.shields.io/github/contributors/your-username/salon-booking-website)](https://github.com/your-username/salon-booking-website/graphs/contributors)
 
-### Repository Stats
-
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/salon-booking-website)](https://github.com/your-username/salon-booking-website)
-
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/salon-booking-website)](https://github.com/your-username/salon-booking-website/issues)
-
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/salon-booking-website)](https://github.com/your-username/salon-booking-website/pulls)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
